@@ -1,0 +1,20 @@
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\bin\Debug\net8.0-windows\Tennis Score App.exe
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\bin\Debug\net8.0-windows\Tennis Score App.deps.json
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\bin\Debug\net8.0-windows\Tennis Score App.runtimeconfig.json
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\bin\Debug\net8.0-windows\Tennis Score App.dll
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\bin\Debug\net8.0-windows\Tennis Score App.pdb
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis_Score_App.Form1.resources
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis_Score_App.Form2.resources
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis_Score_App.Form3.resources
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis_Score_App.Properties.Resources.resources
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis_Score_App.ScoreForm.resources
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis Score App.csproj.GenerateResource.cache
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis Score App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis Score App.AssemblyInfoInputs.cache
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis Score App.AssemblyInfo.cs
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis Score App.csproj.CoreCompileInputs.cache
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis Score App.dll
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\refint\Tennis Score App.dll
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis Score App.pdb
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\Tennis Score App.genruntimeconfig.cache
+C:\Users\rosen\Downloads\Tennis-Score-App\Tennis-Score-App-master\obj\Debug\net8.0-windows\ref\Tennis Score App.dll
